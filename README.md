@@ -1,0 +1,17 @@
+# YaPracticum
+Yandex Practicum DS Projects \ Vitaliy Tereschenko
+
+Личный репозиторий Виталия Терещенко. На текущий момент тут представлены проекты реализованные в процессе обучения на крусе Data Science Яндекс.Практикума.
+Ниже перечень проектов, ключевые моменты по каждому можно найти в README файле внутри паки с проектом.
+
+№ | Проект | Задачи проекта  | Навыки и иструменты 
+------------- | ------------- | ------------- | -------------
+1 | [Отток клиентов банка](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/1_Ottok_klientov_banka) | Анализ оттока клиентов из банка для выбор стратегии (удержание старых клиентов или привлечение новых клиентов) | Pandas, Matplotlib, Seaborn, numpy, sklearn, math, Машинное Обучение
+2 | [Предсказание цены автомобиля](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/2_Opredelenie_stoimosti_avtomobilya) | Обучить модель для определения рыночной стоимости автомобиля | Pandas, sklearn, numpy, LightGBM, Машинное Обучение, CatBoost
+3 | [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/3_Model_dlya_metalloobrabatyvaushchego_predpriyatiya) | Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды. | Pandas, sklearn, numpy, Seaborn, Matplotlib, math, Машинное Обучение
+4 | [Выбор региона для разработки новых нефтяных месторождений](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/4_Vybor_lokatsii_dlya_skvajiny) | Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков | Pandas, sklearn, math, numpy, Matplotlib, SciPy, Bootstrap, Машинное Обучение
+5 | [Прогнозирование заказов такси](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/5_Prognoz_zakaza_taksi) | Обучить модель для предсказания количества заказов такси на следующий час. | Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Машинное Обучение
+6 | [Разработка алгоритма для защиты данных](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/6_Algoritm_zaschity_dannikh) | Методом преобразования данных защитить личную информацию клиентов страховой компании. | Pandas, Seaborn, numpy, sklearn, Машинное Обучение
+7 | [Анализ рынка недвижимости](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/7_Analiz_rynka_kvartir) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир | Python, Pandas, Matplotlib, Исследовательский Анализ Данных, Визуализация Данных, Предобработка Данных, math
+8 | [Изучение закономерностей рынка игр](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/8_Izuchenie_zakonomerostey_rynka_igr) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры | Python, Pandas, numpy, Matplotlib, Предобработка Данных, Исследовательский Анализ Данных, Описательная Статистика, Проверка Статистических Гипотез, Seaborn, SciPy
+9 | [Определение выгодного тарифа для телеком компании](https://github.com/VitaliyTereschenko/YaPracticum/tree/main/9_Opredelenie_vigodnogo_tarifa) | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа | Python, Pandas, Matplotlib, numpy, SciPy, Описательная Статистика, Проверка Статистических Гипотез, math, Seaborn, sklearn, Машинное Обучение
